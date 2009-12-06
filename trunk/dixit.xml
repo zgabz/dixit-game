@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" ?> 
+<Module>
+<ModulePrefs title="State Example" height="120">
+  <Require feature="wave" /> 
+</ModulePrefs>
+<Content type="html">
+<![CDATA[ 
+<a id="skypeLink" href="callto://echo123">Click to join Skype conference call</a>
+    <script type="text/javascript"
+	src="http://dixit-game.googlecode.com/svn/trunk/dixit.js">
+    </script>
+
+<input type=text id="tbSkypeLogin" value="skype login">
+<input type=button id="btnDo" value="Do something" onClick="btnDo_onClick()">
+]]> 
+  </Content>
+</Module>
