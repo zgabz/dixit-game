@@ -10,7 +10,7 @@
 	src="http://dixit-game.googlecode.com/svn/trunk/dixit.js">
     </script>
 
-<input type=text id="tbSkypeLogin" value="skype login">
+<input type=text id="tbSkypeLogin">
 <input type=button id="btnDo" value="Do something" onClick="btnDo_onClick()">
 ]]> 
   </Content>
